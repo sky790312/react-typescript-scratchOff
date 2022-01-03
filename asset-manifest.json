@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/sky790312/react-typescript-scratchOff/static/js/main.86862445.chunk.js",
+    "main.js.map": "/sky790312/react-typescript-scratchOff/static/js/main.86862445.chunk.js.map",
+    "runtime-main.js": "/sky790312/react-typescript-scratchOff/static/js/runtime-main.6d26ea7a.js",
+    "runtime-main.js.map": "/sky790312/react-typescript-scratchOff/static/js/runtime-main.6d26ea7a.js.map",
+    "static/js/2.5ba24a77.chunk.js": "/sky790312/react-typescript-scratchOff/static/js/2.5ba24a77.chunk.js",
+    "static/js/2.5ba24a77.chunk.js.map": "/sky790312/react-typescript-scratchOff/static/js/2.5ba24a77.chunk.js.map",
+    "index.html": "/sky790312/react-typescript-scratchOff/index.html",
+    "static/js/2.5ba24a77.chunk.js.LICENSE.txt": "/sky790312/react-typescript-scratchOff/static/js/2.5ba24a77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d26ea7a.js",
+    "static/js/2.5ba24a77.chunk.js",
+    "static/js/main.86862445.chunk.js"
+  ]
+}
