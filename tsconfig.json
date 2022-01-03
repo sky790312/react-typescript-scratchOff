@@ -21,7 +21,6 @@
       "dom.iterable",
       "esnext"
     ],
-    "noEmit": true
   },
   "include": [
     "src/lib/**/*.ts"
